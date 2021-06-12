@@ -1,0 +1,22 @@
+/* TEAM */
+
+Jack Jona
+https://jackjona.com
+@jackjona123
+From: Canada
+
+/* SITE */
+
+Software: 
+
+React
+Firebase
+React-DOM
+Material-UI
+Create-React-App
+React Hooks
+Eslint
+npm
+CSS
+React-flip-move
+React-text-truncate
